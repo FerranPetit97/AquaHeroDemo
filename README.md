@@ -74,5 +74,3 @@ Puedes consultar más scripts en el archivo `package.json`.
 - Puedes construir para producción ejecutando `npm run build:prod` y arrancar el backend con `npm run start:prod`.
 
 ---
-
-¿Quieres agregar detalles como endpoints del backend, ejemplos de uso, o capturas de pantalla? ¡Dímelo y lo completo por ti!
